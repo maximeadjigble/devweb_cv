@@ -1,0 +1,44 @@
+body {
+    /* background-color: aqua; */
+    padding: 20px 50px;
+}
+
+hr {
+    border-color: lightblue;
+}
+
+#title {
+    margin-top: 40px;
+    /* background-color: lightblue;
+    border-radius: 10px; */
+}
+
+#img-profile {
+    float: left;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.info {
+    height: 150px;
+}
+
+.ul-info {
+    padding-top: 10px;
+    list-style-type: none;
+    float: left;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.sub-category {
+    margin-bottom: 30px;
+}
+
